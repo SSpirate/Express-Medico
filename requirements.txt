@@ -4,7 +4,7 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
-tflite==2.5.0rc0
+tflite==2.4.0
 Pillow
 numpy
 scikit-learn==0.22.2.post1
