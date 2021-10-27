@@ -7,5 +7,6 @@ Werkzeug==0.15.5
 tflite==2.4.0
 Pillow
 numpy
+Cython==0.28.5
 scikit-learn==0.22.2.post1
 pandas
